@@ -38,8 +38,8 @@ The Laboratory of Veterinary Bioinformatics (LBI) specializes in the development
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LBIVeterinary&show_icons=true&theme=flat&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LBIVeterinary&layout=compact&theme=flat&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LBIVeterinary&show_icons=true&theme=flat&hide_border=true&cache_seconds=3600" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LBIVeterinary&layout=compact&theme=flat&hide_border=true&cache_seconds=3600" />
 </p>
 
 ---
