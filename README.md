@@ -47,5 +47,5 @@ The Laboratory of Veterinary Bioinformatics (LBI) specializes in the development
 
 ## Contact and Institutional Affiliation
 
-* **Email:** [faburjaile@gmail.com]
-* **Institution:** [Universidade Federal De Minas Gerais / Escola de Medicina Veterinária]
+* **Email:** faburjaile@gmail.com
+* **Institution:** Universidade Federal De Minas Gerais / Escola de Medicina Veterinária
