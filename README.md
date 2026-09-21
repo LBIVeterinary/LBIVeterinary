@@ -1,26 +1,29 @@
-#  Laboratório de Bioinformática Veterinária (LBI)
+# Laboratory of Veterinary Bioinformatics (LBI)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Foco-Bioinformática_Veterinária-0284c7?style=for-the-badge&logo=dna&logoColor=white" />
-  <img src="https://img.shields.io/badge/Área-Imunoinformática_|_Genômica-059669?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linguagens-Python_|_R_|_Bash-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Veterinary_Bioinformatics-0284c7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Field-Immunoinformatics_|_Genomics-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Languages-Python_|_R_|_Bash-7c3aed?style=for-the-badge" />
 </p>
 
 ---
 
-###  Sobre o Laboratório
-O **LBI (Laboratório de Bioinformática Veterinária)** atua no desenvolvimento e aplicação de ferramentas computacionais voltadas para a análise de dados biológicos em saúde animal, imunoinformática, genômica e diagnóstico molecular.
+## About the Laboratory
+
+The Laboratory of Veterinary Bioinformatics (LBI) specializes in the development and application of computational tools for analyzing biological data related to animal health, immunoinformatics, genomics, and molecular diagnostics.
 
 ---
 
-###  Principais Linhas de Pesquisa & Projetos
--  **Genômica & Transcriptômica Animal:** Montagem, anotação e análise diferencial de expressão.
--  **Imunoinformática & Vacinologia Reversa:** Predição de epítopos, modelagem estrutural e design de vacinas.
--  **Pipelines de Análise:** Automação de fluxos de trabalho bioinformáticos reprodutíveis.
+## Research Focus and Key Areas
+
+* **Genomics and Transcriptomics:** Genome assembly, functional annotation, and differential gene expression analysis.
+* **Immunoinformatics and Reverse Vaccinology:** Epitope prediction, structural modeling, and rational vaccine design.
+* **Pipeline Development:** Automated and reproducible bioinformatic workflows for high-throughput biological data processing.
 
 ---
 
-###  Ferramentas & Tecnologias
+## Tools and Technologies
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
@@ -32,15 +35,16 @@ O **LBI (Laboratório de Bioinformática Veterinária)** atua no desenvolvimento
 
 ---
 
-###  Estatísticas do GitHub
+## GitHub Statistics
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LBIVeterinary&show_icons=true&theme=nord&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LBIVeterinary&layout=compact&theme=nord" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LBIVeterinary&show_icons=true&theme=flat&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LBIVeterinary&layout=compact&theme=flat&hide_border=true" />
 </p>
 
 ---
 
-###  Contato & Links Úteis
-- 🌐 **Website:** [Insera o Link do Site do Lab]
-- 📧 **E-mail:** [Insira o E-mail de Contato]
-- 📍 **Instituição:** [Nome da Universidade / Instituto]
+## Contact and Institutional Affiliation
+
+* **Email:** [faburjaile@gmail.com]
+* **Institution:** [Universidade Federal De Minas Gerais / Escola de Medicina Veterinária]
